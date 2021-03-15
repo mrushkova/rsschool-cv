@@ -23,4 +23,37 @@ Developed using HTML5, CSS3 and JavaScript.
 [Web application](https://mrushkova.github.io/mapty/) for desktop where you can log your workouts.  
 Developed using HTML5, CSS3 and OOP classes in JavaScript.
  
+## Working experience
+
+### Front-end developer 
+#### Independent consultant, Gdansk, Poland
+Jan 2020 – Present (1 year+) 
+- Developed websites and landing pages for desktop and mobile devices using HTML5, CSS3, JavaScript (ES6), Sass (SCSS), Gulp, Pug, Bootstrap and BEM
+- Created web applications using Restful API
+- Worked with prototypes in Adobe Photoshop and Figma
+- Worked within shared Git codebase
+
+### Analyst
+#### Range Soft Sp. z o.o. ([SRI Infotech](https://sriinfotech.com/about-us/)), Gdansk, Poland
+Jan 2019 – Dec 2020 (2 years) 
+- Participated in negotiations with customers, collected technical and business requirements 
+- Wrote software requirement specifications and user stories
+- Coordinated the work between development and management in Agile teams
+- Tracked tasks in Jira and Trello 
+
+### Internal communications manager 
+#### Range Soft Sp. z o.o. ([SRI Infotech](https://sriinfotech.com/about-us/)), Gdansk, Poland
+Nov 2014 – Dec 2018 (4 years)  
+- Represented the company in Poland for customers and contractors
+- Interacted with shareholders and team leads on organizational issues 
+- Single-handedly organized relocation of employees, onboarding processes and trainings  
+
+### Project manager 
+#### [Bitworks LLC.](https://bitworks.software/en/), Tomsk, Russia
+Oct 2013 – Aug 2014 (11 months) 
+- Prioritized incoming tasks with project stakeholders
+- Assigned and managed tasks for developers (2 employees)
+- Wrote project documentation
+- Tested web and mobile applications developed by the team
+- Trained and managed the call center team (4 employees) 
 
