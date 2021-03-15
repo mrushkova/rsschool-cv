@@ -11,15 +11,15 @@ Background in IT project management, system requirements analysis and internal c
 
 ## Last Projects
 
-### ![](https://github.com/mrushkova/forkify/blob/master/src/img/favicon-s.png) Forkify
+### ![](https://github.com/mrushkova/forkify/raw/master/src/img/favicon-s.png) Forkify
 [Web application](https://mrushkova.github.io/forkify/) for searching a recipe or adding a custom one.   
 Developed using the Model-View-Controller Pattern, OOP programming and AJAX calls in JavaScript. 
 
-### ![](https://github.com/mrushkova/bankist-app/blob/master/img/logo-icon-s.png) Bankist 
+### ![](https://github.com/mrushkova/bankist-app/raw/master/img/logo-icon-s.png) Bankist 
 Prototype of bank [website](https://mrushkova.github.io/bankist-app/) and [web application](https://mrushkova.github.io/bankist-app/app.html).  
 Developed using HTML5, CSS3 and JavaScript. 
 
-### ![](https://github.com/mrushkova/mapty/blob/master/icon-s.png) Mapty 
+### ![](https://github.com/mrushkova/mapty/raw/master/icon-s.png) Mapty 
 [Web application](https://mrushkova.github.io/mapty/) for desktop where you can log your workouts.  
 Developed using HTML5, CSS3 and OOP classes in JavaScript.
  
