@@ -74,4 +74,16 @@ HSE University, 2018
 ### Land management and geoinformatics, Master's degree
 Tomsk State University Of Architecture And Building, 2007 – 2012 
 
+## Languages 
+- English – Advanced  
+- Polish – Upper-Intermediate  
+- Russian – Native  
+
+## Skills
+• JavaScript (ES6) • HTML5  • CSS3   • CSS animations  • SCSS    
+• Gulp  • npm  • Pug  • Bootstrap  • BEM  
+• REST API • OOP programming • AJAX calls  
+• GIT  • JIRA  • Trello 
+• Figma • Adobe Photoshop   
+• Teamwork  • Project management • Problem solving • Leadership
 
