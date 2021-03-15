@@ -57,3 +57,21 @@ Oct 2013 – Aug 2014 (11 months)
 - Tested web and mobile applications developed by the team
 - Trained and managed the call center team (4 employees) 
 
+## Education
+
+### Web-programming 
+ITMO University, 2020
+
+### The Complete JavaScript Course
+Udemy, 2020
+
+### Advanced CSS and Sass
+Udemy, 2020
+
+### Project management 
+HSE University, 2018 
+
+### Land management and geoinformatics, Master's degree
+Tomsk State University Of Architecture And Building, 2007 – 2012 
+
+
